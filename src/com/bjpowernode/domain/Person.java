@@ -4,4 +4,6 @@ public class Person {
     private String id;
     private int age;
     private String name;
+    private String address;
+    private boolean gender;
 }
